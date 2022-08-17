@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FirebaseFirestore</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+    <string name="new_first_name">New First Name</string>
+    <string name="new_last_name">New Last Name</string>
+    <string name="new_age">New Age</string>
+    <string name="save_to_database">Save to database</string>
+    <string name="retrieve_data">Retrieve Data</string>
+    <string name="person_data">PERSON DATA</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="update_person">Update Person</string>
+    <string name="delete_person">Delete Person</string>
+</resources>
